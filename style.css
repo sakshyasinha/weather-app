@@ -20,11 +20,6 @@ body {
 	transition: transform 0.3s ease-in-out;
 	width: 450px;
 }
-
-.weather-card:hover {
-	transform: scale(1.05);
-}
-
 #city-input {
 	padding: 15px;
 	margin: 10px 0;
